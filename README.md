@@ -3,7 +3,7 @@ VPIN-based Bitcoin market microstructure analysis system using Binance high-freq
 
 # VPIN Jump Detector: BTC Market Microstructure
 
-[![Open In Colab](https://colab.research.google.com/drive/1P_z-BMr7CPXY-CQ6gi_APtBv0Wq761EP?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P_z-BMr7CPXY-CQ6gi_APtBv0Wq761EP?usp=sharing)]
 
 # Overview
 An end-to-end quantitative tool to detect "Informed Trading" and "Liquidity Shocks" in Bitcoin markets using high-frequency Binance data.
