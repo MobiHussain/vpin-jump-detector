@@ -1,9 +1,7 @@
-<img width="1158" height="528" alt="download" src="https://github.com/user-attachments/assets/a169c00f-890e-4c06-b28e-94d1bc151f22" />
 # vpin-jump-detector
 VPIN-based Bitcoin market microstructure analysis system using Binance high-frequency trade data to detect informed trading activity and price jumps.
 
 # VPIN Jump Detector: BTC Market Microstructure
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P_z-BMr7CPXY-CQ6gi_APtBv0Wq761EP?usp=sharing)]
 
 # Overview
@@ -15,5 +13,6 @@ An end-to-end quantitative tool to detect "Informed Trading" and "Liquidity Shoc
 * Volume Bar Generation: Transforming noisy tick data into information-rich volume segments.
 
 # Visualizations
-![Price Chart with Jumps](https://colab.research.google.com/drive/1P_z-BMr7CPXY-CQ6gi_APtBv0Wq761EP#scrollTo=zHA7rDUmeS2v&fullscreenOutput=true)
+<img width="1158" height="528" alt="download" src="https://github.com/user-attachments/assets/a169c00f-890e-4c06-b28e-94d1bc151f22" />
+
 * Detecting a price jump following a VPIN spike.
