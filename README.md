@@ -1,3 +1,4 @@
+<img width="1158" height="528" alt="download" src="https://github.com/user-attachments/assets/a169c00f-890e-4c06-b28e-94d1bc151f22" />
 # vpin-jump-detector
 VPIN-based Bitcoin market microstructure analysis system using Binance high-frequency trade data to detect informed trading activity and price jumps.
 
